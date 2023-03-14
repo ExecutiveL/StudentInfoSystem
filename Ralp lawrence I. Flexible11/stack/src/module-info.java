@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Ralp
+ *
+ */
+module stack {
+}
